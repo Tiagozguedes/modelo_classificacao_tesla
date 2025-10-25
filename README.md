@@ -2,7 +2,6 @@
 **Tiago TG**  
 📍 Projeto acadêmico desenvolvido para a disciplina de Inteligência Artificial Aplicada à Classificação  
 🎓 FIAP – Análise e Desenvolvimento de Sistemas
-RM: 564731 - 1TDSPW
 
 ---
 
