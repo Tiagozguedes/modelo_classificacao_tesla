@@ -3,6 +3,9 @@
 📍 Projeto acadêmico desenvolvido para a disciplina de Inteligência Artificial Aplicada à Classificação  
 🎓 FIAP – Análise e Desenvolvimento de Sistemas
 
+## GitHub
+-- **https://github.com/Tiagozguedes/modelo_classificacao_tesla**
+
 ---
 
 # 🧠 Modelo de Classificação com IA – Tesla Stock Prediction
@@ -107,3 +110,5 @@ Apesar da acurácia moderada, o experimento mostra o potencial do uso de **IA e 
 - **Matplotlib**
 - **Scikit-learn**
 - **Jupyter Notebook / VS Code**
+
+
